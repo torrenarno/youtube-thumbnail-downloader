@@ -1,5 +1,11 @@
 document.getElementById('fetchButton').addEventListener('click', function() {
-  fetchThumbnails();
+  fetchThumbnails().then(() => {
+    // Scroll to the thumbnails container
+    const thumbnailContainer = document.getElementById('thumbnail-container');
+    thumbnailContainer.scrollIntoView({ behavior: 'smooth' });
+  }).catch(error => {
+    console.error('Error fetching thumbnails:', error);
+  });
 });
 
 function extractVideoIdFromUrl(url) {
