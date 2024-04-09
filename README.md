@@ -25,7 +25,7 @@ This YouTube Thumbnail Downloader tool is developed and maintained by [Snapsave]
 
 Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests on GitHub. Your feedback is valuable in improving the tool and making it even more useful for the community.
 
-# Frequently Asked Questions
+# FAQS
 
 __Is the YouTube Thumbnail Downloader tool free to use?__
 
