@@ -27,15 +27,15 @@ Feel free to contribute to the project by submitting bug reports, feature reques
 
 # Frequently Asked Questions
 
-## Is the YouTube Thumbnail Downloader tool free to use?
+Is the YouTube Thumbnail Downloader tool free to use?
 
 Yes, the YouTube Thumbnail Downloader tool is completely free to use. There are no charges or subscriptions required. Feel free to use it as often as you like to download thumbnails from your favorite YouTube videos.
 
-## Can I use the YouTube Thumbnail Downloader tool on my own server?
+Can I use the YouTube Thumbnail Downloader tool on my own server?
 
 Yes, you can deploy the YouTube Thumbnail Downloader tool on your own server if you wish. The tool is open-source, so you can download the source code from GitHub and host it on your server. Please make sure to comply with the terms of the license under which the tool is distributed.
 
-## Can I contribute to the development of the YouTube Thumbnail Downloader tool?
+Can I contribute to the development of the YouTube Thumbnail Downloader tool?
 
 Yes, contributions to the development of the YouTube Thumbnail Downloader tool are welcome! Whether you want to fix bugs, add new features, or improve the documentation, contributions from the community help make the tool better for everyone. You can find more information on how to contribute in the [Contributing Guidelines](CONTRIBUTING.md) of the project.
 
