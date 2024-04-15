@@ -6,11 +6,11 @@ Thank you for considering contributing to Snapsave! By contributing to this proj
 
 ### Reporting Bugs
 
-If you encounter a bug while using Snapsave, please check the existing [issues](https://github.com/torrenarno/your-project/issues) on GitHub to see if the issue has already been reported. If not, please [open a new issue](https://github.com/yourusername/your-project/issues/new) and include as much detail as possible, including steps to reproduce the issue.
+If you encounter a bug while using Snapsave, please check the existing [issues](https://github.com/torrenarno/) on GitHub to see if the issue has already been reported. If not, please [open a new issue](https://github.com/torrenarno) and include as much detail as possible, including steps to reproduce the issue.
 
 ### Requesting Features
 
-If you have an idea for a new feature or enhancement, we'd love to hear about it! Please [open a new issue](https://github.com/yourusername/your-project/issues/new) on GitHub and provide a clear description of the feature or enhancement you'd like to see.
+If you have an idea for a new feature or enhancement, we'd love to hear about it! Please [open a new issue](https://github.com/torrenarno) on GitHub and provide a clear description of the feature or enhancement you'd like to see.
 
 ### Contributing Code
 
