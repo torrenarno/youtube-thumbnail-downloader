@@ -31,6 +31,6 @@ All contributions will be reviewed before they are merged into the main reposito
 
 ## Getting Help
 
-If you need help or have questions about contributing to [Your Project Name], please feel free to reach out to us by [opening an issue](https://github.com/yourusername/your-project/issues/new) on GitHub.
+If you need help or have questions about contributing to [Your Project Name], please feel free to reach out to us by [opening an issue](https://github.com/torrenarno) on GitHub.
 
-Thank you for contributing to [Your Project Name]!
+Thank you for contributing to [Snapsave]!
