@@ -1,4 +1,4 @@
-# youtube-thumbnail-downloader in high-quality free script
+# youtube-thumbnail-downloader in High Quality free script | HTML, CSS, JS
 Certainly! Below is a sample description you can use to describe your YouTube thumbnail downloader tool on GitHub, including a mention of your website:
 
 ---
